@@ -11,10 +11,7 @@
 - Restart Adobe After Effects
 - In Adobe After Effects go to `Window` and select `AErender Launcher Script.jsx`
 #### Adobe After Effects CC 2018 and older
-##### Windows
-- Copy `AErender Launcher Script.jsx` to `Adobe\Adobe After Effects CC <year>\Support Files\Scripts\ScriptUI Panels` folder
-##### macOS
-- Copy `AErender Launcher Script.jsx` to `/Applications/Adobe After Effects CC <year>/Scripts/ScriptUI Panels`
-
+- **Windows** Copy `AErender Launcher Script.jsx` to `Adobe\Adobe After Effects CC <year>\Support Files\Scripts\ScriptUI Panels` folder
+- **macOS** Copy `AErender Launcher Script.jsx` to `/Applications/Adobe After Effects CC <year>/Scripts/ScriptUI Panels`
 - Restart Adobe After Effects if opened
 - In Adobe After Effects go to `Window` and select `AErender Launcher Script.jsx`
