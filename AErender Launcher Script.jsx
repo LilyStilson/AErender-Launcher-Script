@@ -627,6 +627,7 @@ QueueForm.BottomPanel.BottomRightPanel.okButton.onClick = function() {
     } else {
         alert("File not assigned! Nothing has been changed!");
     }
+    QueueForm.QueueItemsList.removeAll();
     QueueForm.hide();
 }
 
